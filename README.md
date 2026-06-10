@@ -61,6 +61,3 @@ The system makes it easier for users to submit reports, browse found items, and 
 
 ## Note
 This project was developed as an academic project during my Diploma studies for subject Web Programming in Semester 3.
-## Note
-
-This project was developed as an academic project during my Diploma studies.
